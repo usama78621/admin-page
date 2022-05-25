@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/admin-page/static/css/main.c0d3e836.css",
+    "main.js": "/admin-page/static/js/main.b00835e6.js",
+    "static/js/27.70a90ebe.chunk.js": "/admin-page/static/js/27.70a90ebe.chunk.js",
+    "index.html": "/admin-page/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.c0d3e836.css",
+    "static/js/main.b00835e6.js"
+  ]
+}
